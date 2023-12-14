@@ -454,6 +454,7 @@ ol {
 	display: inline-block;
 	padding: 5px 10px;
 	background: #0c81aa;
+	color: white;
 	font-weight: 700;
 	letter-spacing: 1px;
 	margin-top: 30px;
@@ -1059,8 +1060,15 @@ ol {
 	position: absolute;
 	top: 50%;
 	margin-top: -12px;
-	left: 60px;
+	left: 80px;
 	color: #737373;
+}
+.footer-section .footer-image {
+	position: absolute;
+	top: 10%;
+	margin-top: -12px;
+	left: 60px;
+
 }
 
 .footer-section .footer-social {
